@@ -1,1 +1,5 @@
-# TDS_Project_1
+**-> Data Scraping Procedure**: Using the GitHub API, the script fetches profiles of Seattle-based users with over 200 followers and retrieves their repositories. Each user's details and up to 500 repositories are saved to CSV files using Python's requests library and csv module for structured analysis and easy access.
+
+**-> Interesting Fact About Data**: After analysis, I found that the average GitHub user in this dataset has about 764 followers and 102 public repositories. The user with the highest number of followers is vczh, with 17,512 followers. Meanwhile, schollz holds the record for the most public repositories, boasting an impressive 1,080 repos.
+
+**-> Recommendation for Developers**: To boost GitHub visibility, developers should increase repository count, add impactful projects, and mark themselves as hireable. Engaging in high-demand tech areas, contributing consistently over time, and collaborating with renowned companies can attract followers and strengthen their professional presence.
